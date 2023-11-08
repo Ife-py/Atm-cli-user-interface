@@ -1,2 +1,2 @@
 # Atm-cli-user-interface
-creating user inerface for clients
+creating user ineterface for clients
